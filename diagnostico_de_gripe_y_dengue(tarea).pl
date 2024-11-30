@@ -1,5 +1,5 @@
 
-% Hechos sobre síntomas 
+% Hechos (síntomas)
 sintoma(malestar_general).
 sintoma(fiebre).
 sintoma(tos).
